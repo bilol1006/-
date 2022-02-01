@@ -1,0 +1,143 @@
+.mzxc {
+    background-image: url('/1617381679_14-p-oboi-fon-more-14.jpg');
+    min-height: 700px;
+    background-size:cover;
+  }
+
+ul {
+      position: relative;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(250, 1, 1);
+    }
+    
+    li {
+      float: right;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 16px 18px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: rgb(38, 0, 255);
+    }
+    
+    .active {
+      background-color: #04AA6D;
+    }
+
+    .f {
+        color: #46ff2d;
+        font-size: 50px;
+        margin-top: 180px;
+        margin-left: 160px;
+    }
+
+    .ff {
+        color: red;
+        font-size: 50px;
+        margin-top: 20px;
+        margin-left: 160px;
+    }
+
+    .ggg {
+        background-color: black;
+        color: greenyellow;
+        font-size: 15px;
+        margin-top: 14px;
+        margin-left: 160px;
+        padding: 10px 40px;
+    }
+
+    .qws {
+        display: inline-block;
+        padding: 10px 7px;
+        border: 1px solid #080808;
+        border-radius: 10px;
+    }
+
+    hr {
+        margin-top: 50px;
+        color: black;
+    }
+
+    .fa-amazon {
+        color: white;
+        float: left;
+        margin-left: 140px;
+        font-size: 50px;
+    }
+
+    .mn {
+        text-align: center;
+        color: rgb(8, 11, 192);
+    }
+
+    span {
+        color: yellow;
+    }
+
+    .qwe {
+        margin-left: 50px;
+        margin-right: 50px;
+        background-color: rgb(43, 183, 226);
+        border: 2px solid black;
+        width: 240px;
+    }
+
+    img {
+        margin-top: 20px;
+        border-radius: 50%;
+        width: 80px;
+    }
+
+    .frt {
+        margin-left: 32px;
+    }
+
+    .kkj {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid rgb(8, 8, 8);
+        border-radius: 10px;
+        box-sizing: border-box;
+    }
+    
+    input[type=submit] {
+        width: 100%;
+        background-color: #4caf50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+    
+    .kdn {
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .laks {
+        background-color: black;
+        width: 1520px;
+    }
